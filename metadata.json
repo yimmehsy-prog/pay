@@ -1,0 +1,5 @@
+{
+  "name": "GlobalPay Admin",
+  "description": "Overseas order reconciliation and payment statistics dashboard.",
+  "requestFramePermissions": []
+}
